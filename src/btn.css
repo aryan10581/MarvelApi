@@ -1,0 +1,14 @@
+#flexSwitchCheckDefault{
+    width: 2vw;
+    height: 2vh;
+}
+.form-switch{
+display: flex;
+align-items: center;
+}
+a{
+    text-decoration: none;
+}
+#search_b_char{
+  width: 15vw;
+}

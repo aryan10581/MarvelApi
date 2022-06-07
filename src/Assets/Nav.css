@@ -1,0 +1,14 @@
+@media screen and (min-width:318px) and (max-width:1024px) {
+    #mid{
+        display: none;
+    }
+    /* .logo{
+        font-size: 25px;
+    } */
+    #for{
+        display: block;
+    }
+}
+#close{
+    display: none;
+}

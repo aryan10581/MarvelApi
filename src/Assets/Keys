@@ -1,0 +1,20 @@
+Public Key -
+fb3f379fdfa41a47194d24fc57e92149
+Private Key
+3fbca9e9d43ee43dc1759e618c7362efc6d8bac7
+
+hash value
+13fbca9e9d43ee43dc1759e618c7362efc6d8bac7fb3f379fdfa41a47194d24fc57e92149
+
+
+
+
+hash md5
+1d5cc074cfd52dec2da3cf518594466a
+
+
+
+example
+http://gateway.marvel.com/v1/public/comics?ts=1&apikey=fb3f379fdfa41a47194d24fc57e92149&hash=029596ffb4dc0b89e6859b50d317e11d
+REACT_APP_PRIVATE_KEY=3fbca9e9d43ee43dc1759e618c7362efc6d8bac7
+REACT_APP_HASH_MD5=029596ffb4dc0b89e6859b50d317e11d
